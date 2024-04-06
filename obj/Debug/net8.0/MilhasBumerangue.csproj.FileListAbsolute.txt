@@ -1,0 +1,15 @@
+C:\Users\user\t\MilhasBumerangue\bin\Debug\net8.0\MilhasBumerangue.exe
+C:\Users\user\t\MilhasBumerangue\bin\Debug\net8.0\MilhasBumerangue.deps.json
+C:\Users\user\t\MilhasBumerangue\bin\Debug\net8.0\MilhasBumerangue.runtimeconfig.json
+C:\Users\user\t\MilhasBumerangue\bin\Debug\net8.0\MilhasBumerangue.dll
+C:\Users\user\t\MilhasBumerangue\bin\Debug\net8.0\MilhasBumerangue.pdb
+C:\Users\user\t\MilhasBumerangue\obj\Debug\net8.0\MilhasBumerangue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\t\MilhasBumerangue\obj\Debug\net8.0\MilhasBumerangue.AssemblyInfoInputs.cache
+C:\Users\user\t\MilhasBumerangue\obj\Debug\net8.0\MilhasBumerangue.AssemblyInfo.cs
+C:\Users\user\t\MilhasBumerangue\obj\Debug\net8.0\MilhasBumerangue.csproj.CoreCompileInputs.cache
+C:\Users\user\t\MilhasBumerangue\obj\Debug\net8.0\MilhasBumerangue.sourcelink.json
+C:\Users\user\t\MilhasBumerangue\obj\Debug\net8.0\MilhasBumerangue.dll
+C:\Users\user\t\MilhasBumerangue\obj\Debug\net8.0\refint\MilhasBumerangue.dll
+C:\Users\user\t\MilhasBumerangue\obj\Debug\net8.0\MilhasBumerangue.pdb
+C:\Users\user\t\MilhasBumerangue\obj\Debug\net8.0\MilhasBumerangue.genruntimeconfig.cache
+C:\Users\user\t\MilhasBumerangue\obj\Debug\net8.0\ref\MilhasBumerangue.dll
